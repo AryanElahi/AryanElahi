@@ -1,9 +1,8 @@
+ 👋 Hello, World! I'm Aryan Faghirollahy
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
- 👋 Hello, World! I'm Aryan Faghirollahy
-
 🎓 **Electrical Engineering Student** | 💻 **Back-End Developer** | 🔒 **Cybersecurity Enthusiast** | 📊 **Data Science Explorer**  
 🌟 **Passionate about Full-Stack Development, Cybersecurity, and Data Science!**
 
