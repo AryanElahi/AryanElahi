@@ -60,9 +60,7 @@ If you’d like to connect, collaborate on a project, or discuss anything tech-r
 ---
 
 ⭐️ **Fun Fact:** I’m always eager to learn something new, whether it’s a cutting-edge technology or an old-school engineering concept!
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
