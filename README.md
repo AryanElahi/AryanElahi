@@ -10,13 +10,9 @@
 <a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
 <a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
-
 </p>
 🎓 **Electrical Engineering Student** | 💻 **Back-End Developer** | 🔒 **Cybersecurity Enthusiast** | 📊 **Data Science Explorer**  
 🌟 **Passionate about Full-Stack Development, Cybersecurity, and Data Science!**
-
----
-
 ## 🚀 About Me
 
 Hi! I'm currently pursuing a degree in **Electrical Engineering** and have developed a strong passion for software development. My journey began in **back-end development**, and from there, I’ve explored the exciting worlds of **full-stack development**, **cybersecurity**, and **data science**.
