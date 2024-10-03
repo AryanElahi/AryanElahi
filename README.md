@@ -58,7 +58,6 @@ Here are a few of my future plans:
 ---
 
 ## 📫 Let's Connect!
-
 - 🌐 [Portfolio/Website](https://aryanfg.ir)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryan-faghirollahy-30b4aa246/)  
 - 🐙 [GitHub](https://github.com/AryanElahi)  
