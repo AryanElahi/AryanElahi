@@ -1,64 +1,31 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-<hr>
+# Hi, I'm Aryan Faghirollahi 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aryan Elahi</h1>
-<h3 align="center">Full-Stack Developer | Workflow Automation Expert | AI-Powered API & Data Solutions Specialist</h3>
+**LLM & Data Science | Building AI Products | TA @ Tehran Data**
 
+I build AI products with LLMs and data. My rule: use an LLM only where it adds value, and let code, not the model, compute the numbers.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-faghirollahy-30b4aa246/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/AryanElahi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-  <a href="https://aryanfg.ir" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Website" height="30" width="40"/>
-  </a>
-</p>
+### Now
+- **Bachelor project:** forecasting AI data-centre GPU power 1–15 minutes ahead, with calibrated uncertainty and a battery controller that limits grid ramps → [gpu-power-forecast-control](https://github.com/AryanElahi/gpu-power-forecast-control)
+- **Building:** an AI studio for video and images, and a coursework & attendance platform for universities
+- **Teaching:** TA for the LLM course at Tehran Data (University of Tehran)
 
----
+### Recent results (2026)
+- 🥈 **2nd**, Iran AI Factory Hackathon: Sarnakh, an LLM copilot for B2B sales → [NafisNakh-Hacketon](https://github.com/AryanElahi/NafisNakh-Hacketon)
+- 🥉 **3rd**, TOGA (MAPNA Group) Data Science Competition: NCR resolution-time prediction
+- 🥉 **3rd (team)**, PolyhaQ, Iran's first quantum computing event → [polyhaq-cv-dj](https://github.com/AryanElahi/polyhaq-cv-dj)
 
-## 🚀 About Me
+### Selected projects
+| Project | What it is |
+| --- | --- |
+| [GPU Power: Forecast to Control](https://github.com/AryanElahi/gpu-power-forecast-control) | 29 classical, deep, foundation and hybrid-quantum forecasters on MIT Supercloud telemetry; conformal intervals; MPC battery control |
+| [Sarnakh](https://github.com/AryanElahi/NafisNakh-Hacketon) | 16 scattered spreadsheets → 644 customer profiles; Gemini with tool calling; every number computed in code |
+| [PolyhaQ: Deutsch–Jozsa](https://github.com/AryanElahi/polyhaq-cv-dj) | Raised the algorithm's performance from ~83% to 88% in an 18-hour quantum hackathon |
+| [Hamkar](https://github.com/AryanElahi/hamkar-technical-coworker-for-liara-) | AI DevOps teammate for the Liara cloud, built on MCP |
+| [Kharidyar](https://github.com/AryanElahi/kharid-yar-torob-assistant-) | Shopping assistant on Torob data: rules first, LLM second |
+| [Car Price Prediction](https://github.com/AryanElahi/car_estimate_price_Using_AI) | 1st place, University of Kurdistan AI & Data Science course project |
 
-I am a results-driven Full-Stack Developer with over 5 years of experience specializing in building scalable web applications, automating complex business workflows, and integrating AI-powered solutions. My passion lies in crafting efficient, reliable, and maintainable systems that empower businesses to operate smarter and faster.
+### Tools
+Python · pandas · scikit-learn · LightGBM · CatBoost · time-series forecasting · LLM tool calling · RAG · MCP · FastAPI · Django · Node.js · PostgreSQL
 
----
-
-## 🛠️ Technical Expertise
-
-- **Languages:** JavaScript, TypeScript, Python  
-- **Frameworks & Libraries:** React, Next.js, Node.js (Express, NestJS), Django, Flask, FastAPI  
-- **Automation & Integration:** Zapier, Make (Integromat), n8n, LangChain, GPT-4  
-- **Databases:** MongoDB, PostgreSQL, Firebase  
-- **Cloud Platforms:** AWS (Lambda, EC2, S3), Google Cloud Platform, Vercel  
-- **Tools & Practices:** RESTful API design, CI/CD pipelines, Docker, Kubernetes  
-
----
-
-## 💼 Services I Offer
-
-- **Web Application Development:** Full-stack solutions using modern technologies for robust and scalable applications.  
-- **Business Process Automation:** Streamlining workflows through automation tools and custom scripts to save time and reduce errors.  
-- **AI & Intelligent Systems:** Integration of AI models like GPT-4 and LangChain to add smart capabilities to applications.  
-- **API Development & Integration:** Building secure, performant, and scalable RESTful APIs for seamless data exchange.  
-- **Data Scraping & Machine Learning:** Advanced data extraction, processing, and predictive modeling using Python and ML frameworks.  
-- **Cloud Deployment & DevOps:** Reliable cloud hosting, scaling, and automated deployments ensuring high availability.
-
----
-
-## 🔥 Why Work With Me?
-
-- Tailored solutions aligned with your unique business goals.  
-- Clear and proactive communication throughout the project lifecycle.  
-- Commitment to quality, scalability, and maintainability.  
-- On-time delivery without compromising excellence.  
-- Passion for transforming complex challenges into simple, effective digital experiences.
-
----
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
-</p>
+### Elsewhere
+I write in Persian about LLMs and data science on [LinkedIn](https://www.linkedin.com/in/aryan-faghirollahi-30b4aa246/) · [aryanfg.ir](https://aryanfg.ir) · aryan.faghirollahy@gmail.com
