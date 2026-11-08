@@ -23,6 +23,7 @@ I build AI products with LLMs and data. My rule: use an LLM only where it adds v
 | [TOGA NCR Rework Time](https://github.com/AryanElahi/toga-ncr-rework-prediction) | 3rd place: three linked tasks on SAP maintenance records; boundary classifiers merged into the multiclass model, MAE-aware decoding, cross-task consensus |
 | [Hamkar](https://github.com/AryanElahi/hamkar-technical-coworker-for-liara-) | AI DevOps teammate for the Liara cloud, built on MCP |
 | [Kharidyar](https://github.com/AryanElahi/kharid-yar-torob-assistant-) | Shopping assistant on Torob data: rules first, LLM second |
+| [project-archive](https://github.com/AryanElahi/project-archive-skill) | Claude skill that keeps a long-running project in one folder so every new chat continues where the last stopped (English & Persian) |
 | [Car Price Prediction](https://github.com/AryanElahi/car_estimate_price_Using_AI) | 1st place, University of Kurdistan AI & Data Science course project |
 
 ### Tools
